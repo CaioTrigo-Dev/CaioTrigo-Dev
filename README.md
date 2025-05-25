@@ -29,5 +29,5 @@ Se quiser bater um papo sobre desenvolvimento, trocar ideias ou até mesmo colab
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioTrigo-Deviuricode&show_icons=true)
 
