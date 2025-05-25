@@ -1,4 +1,4 @@
- Oi, meu nome é Caio Trigo!
+ Oi, meu nome é Caio Cesar!
 Sou um entusiasta da tecnologia e desenvolvimento web, sempre em busca de aprendizado e evolução. Atualmente venho estudando e aplicando meus conhecimentos em PHP, JavaScript, HTML e CSS.
 
 🔭 Recentemente desenvolvi dois projetos que me ajudaram muito a consolidar o que venho estudando:
