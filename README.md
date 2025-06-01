@@ -1,5 +1,5 @@
  Oi, meu nome é Caio Cesar!
-Sou um entusiasta da tecnologia e desenvolvimento web, sempre em busca de aprendizado e evolução. Atualmente venho estudando na Faculdade e por fora aplicando meus conhecimentos em PHP, JavaScript, HTML e CSS.
+Sou um entusiasta da tecnologia e desenvolvimento web, sempre em busca de aprendizado e evolução. Atualmente venho estudando na Faculdade e por fora aplicando meus conhecimentos em PHP, JavaScript, HTML, CSS, NEXT, TAILWIND.
 
 💬 Estou aberto a colaborações, dicas, feedbacks e novas conexões!
 Se quiser bater um papo sobre desenvolvimento, trocar ideias ou até mesmo colaborar em algo, é só me chamar!
