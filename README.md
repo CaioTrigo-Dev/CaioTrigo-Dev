@@ -4,10 +4,16 @@ Sou um entusiasta da tecnologia e desenvolvimento web, sempre em busca de aprend
 💬 Estou aberto a colaborações, dicas, feedbacks e novas conexões!
 Se quiser bater um papo sobre desenvolvimento, trocar ideias ou até mesmo colaborar em algo, é só me chamar!
 
-📬 Vamos nos conectar?
-📸 Instagram: https://www.instagram.com/carocayoi/?locale=zh-hans&hl=af
-📧 E-mail: Caiorj95@gmail.com
-🔗 LinkedIn: Caio Trigo
+## 🌐 Socials:
+
+<div style="text-align: center;">
+    <a href="https://www.instagram.com/carocayoi">
+        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.linkedin.com/in/caio-trigo">
+        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+</div>
 
 ## 🚀 Minhas Skills
 
