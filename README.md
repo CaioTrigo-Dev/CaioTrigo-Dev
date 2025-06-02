@@ -10,7 +10,7 @@ Se quiser bater um papo sobre desenvolvimento, trocar ideias ou até mesmo colab
     <a href="https://www.instagram.com/carocayoi">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://www.linkedin.com/in/caio-trigo">
+    <a href="https://www.linkedin.com/in/caio-trigo-7a653a33b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </div>
