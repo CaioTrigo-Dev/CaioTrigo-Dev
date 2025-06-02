@@ -5,7 +5,7 @@ Sou um entusiasta da tecnologia e desenvolvimento web, sempre em busca de aprend
 Se quiser bater um papo sobre desenvolvimento, trocar ideias ou até mesmo colaborar em algo, é só me chamar!
 
 📬 Vamos nos conectar?
-📸 Instagram: @carocayoi
+📸 Instagram: https://www.instagram.com/carocayoi/?locale=zh-hans&hl=af
 📧 E-mail: Caiorj95@gmail.com
 🔗 LinkedIn: Caio Trigo
 
