@@ -24,3 +24,11 @@ Se quiser bater um papo sobre desenvolvimento, trocar ideias ou até mesmo colab
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/VictorHLF42/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FCaioTrigo-dev&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
+
