@@ -1,34 +1,107 @@
- Oi, meu nome é Caio Cesar!
-Sou um entusiasta da tecnologia e desenvolvimento web, sempre em busca de aprendizado e evolução. Atualmente venho estudando na Faculdade e por fora aplicando meus conhecimentos em PHP, JavaScript, HTML, CSS, NEXT, TAILWIND.
+# Olá, eu sou o Caio Cesar! 👋
 
-💬 Estou aberto a colaborações, dicas, feedbacks e novas conexões!
-Se quiser bater um papo sobre desenvolvimento, trocar ideias ou até mesmo colaborar em algo, é só me chamar!
-
-## 🌐 Socials:
-
-<div style="text-align: center;">
-    <a href="https://www.instagram.com/carocayoi">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/caio-trigo-7a653a33b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;JavaScript+%7C+React+%7C+Node.js;Criando+solu%C3%A7%C3%B5es+escal%C3%A1veis" alt="Typing SVG" />
 </div>
 
-## 🚀 Minhas Skills
+## 💼 Sobre Mim
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Experiência em criação de sistemas ponta a ponta, arquiteturas escaláveis e automação de processos.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNISUAM
+- 💻 Especialista em **React**, **Next.js**, **Node.js** e **PostgreSQL**
+- 🏗️ Experiência com **Arquitetura MVC** e **Testes Unitários (Jest)**
+- ⚡ Automação de processos com **n8n** e **Node-RED**
+- 🌱 Sempre aprendendo e evoluindo
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas & Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+
+<div align="center">
+
+[![CEP Search React MVC](https://github-readme-stats.vercel.app/api/pin/?username=CaioTrigo-Dev&repo=cep-search-react-mvc&theme=tokyonight&hide_border=true)](https://github.com/CaioTrigo-Dev/cep-search-react-mvc)
+[![Buscar CEP](https://github-readme-stats.vercel.app/api/pin/?username=CaioTrigo-Dev&repo=buscar-cep&theme=tokyonight&hide_border=true)](https://github.com/CaioTrigo-Dev/buscar-cep)
+
+</div>
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[CEP Search React MVC](https://github.com/CaioTrigo-Dev/cep-search-react-mvc)** | Aplicação de busca de CEP com arquitetura MVC | React, Jest, Git Flow |
+| **[Buscar CEP](https://github.com/CaioTrigo-Dev/buscar-cep)** | Consumo de API de CEP com JavaScript puro | JavaScript, MVC, Testes Unitários |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioTrigo-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTrigo-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioTrigo-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🤝 Vamos Conectar!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-trigo-7a653a33b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carocayoi)
+[![99Freelas](https://img.shields.io/badge/99Freelas-00B057?style=for-the-badge&logo=freelancer&logoColor=white)](https://99freelas.com.br/user/CaioCesarTrigo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiorj95@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+💬 **Estou aberto a oportunidades, colaborações e novos desafios!**
+
+Se quiser conversar sobre desenvolvimento, trocar ideias ou colaborar em projetos, é só me chamar!
+
+<img src="https://komarev.com/ghpvc/?username=CaioTrigo-Dev&color=6C63FF&style=for-the-badge&label=VISITANTES" alt="Profile views"/>
+
+</div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/VictorHLF42/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioTrigo-Dev/CaioTrigo-Dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioTrigo-Dev/CaioTrigo-Dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaioTrigo-Dev/CaioTrigo-Dev/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FCaioTrigo-dev&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
-
