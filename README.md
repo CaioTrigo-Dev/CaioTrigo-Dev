@@ -64,19 +64,6 @@ Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Expe
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioTrigo-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTrigo-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioTrigo-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🤝 Vamos Conectar!
 
 <div align="center">
@@ -99,9 +86,3 @@ Se quiser conversar sobre desenvolvimento, trocar ideias ou colaborar em projeto
 <img src="https://komarev.com/ghpvc/?username=CaioTrigo-Dev&color=6C63FF&style=for-the-badge&label=VISITANTES" alt="Profile views"/>
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioTrigo-Dev/CaioTrigo-Dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioTrigo-Dev/CaioTrigo-Dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaioTrigo-Dev/CaioTrigo-Dev/output/github-contribution-grid-snake.svg">
-</picture>
