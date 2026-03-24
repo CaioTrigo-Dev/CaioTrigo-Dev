@@ -60,7 +60,7 @@ Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Expe
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | **[CEP Search React MVC](https://github.com/CaioTrigo-Dev/cep-search-react-mvc)** | Aplicação de busca de CEP com arquitetura MVC | React, Jest, Git Flow |
-| **[Buscar CEP](https://github.com/CaioTrigo-Dev/buscar-cep)** | Consumo de API de CEP com JavaScript puro | JavaScript, MVC, Testes Unitários |
+| **[Buscar CEP](https://github.com/CaioTrigo-Dev/Agendamento_n8n)** | Consumindo Via Webhook n8n clientes Agendados ou em atendimento | React, Vite, Tailwind |
 
 ---
 
