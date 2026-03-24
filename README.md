@@ -53,7 +53,7 @@ Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Expe
 <div align="center">
 
 [![CEP Search React MVC](https://github-readme-stats.vercel.app/api/pin/?username=CaioTrigo-Dev&repo=cep-search-react-mvc&theme=tokyonight&hide_border=true)](https://github.com/CaioTrigo-Dev/cep-search-react-mvc)
-[![Buscar CEP](https://github-readme-stats.vercel.app/api/pin/?username=CaioTrigo-Dev&repo=buscar-cep&theme=tokyonight&hide_border=true)](https://github.com/CaioTrigo-Dev/buscar-cep)
+[![Agendamento de Clinica Estetica](https://github.com/CaioTrigo-Dev/Agendamento_n8n)
 
 </div>
 
